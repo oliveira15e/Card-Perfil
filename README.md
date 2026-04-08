@@ -1,18 +1,21 @@
-#🎴 Card de Perfil Interativo
+🎴 Card de Perfil Interativo
 <br>
 
 <p align="left"> Um card de perfil moderno com animações suaves em CSS e exibição interativa de redes sociais. </p>
 <br>
 
 
-##🛠️ Tecnologias
+🛠️ Tecnologias
 <br>
 
 <p align="left">
 HTML5
+    <br>
 CSS3
+    <br>
 Google Fonts
-Flaticon Icons
+    <br>
+Flaticon Icons<br>
 </p>
 
 ✨ Funcionalidades
