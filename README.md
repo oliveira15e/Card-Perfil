@@ -1,6 +1,6 @@
 🎴 Card de Perfil Interativo
 
-<p align="center"> Um card de perfil moderno com animações suaves em CSS e exibição interativa de redes sociais. </p>
+<p align="left"> Um card de perfil moderno com animações suaves em CSS e exibição interativa de redes sociais. </p>
 
 🛠️ Tecnologias
 
