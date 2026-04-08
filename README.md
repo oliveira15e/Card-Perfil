@@ -38,7 +38,7 @@ Ao interagir com o card: <br>
 ├── card.css <br>
 └── 📁 img <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── eu.jpeg <br>
-&nbsp;└── thumb-1920-666904.jpg <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── thumb-1920-666904.jpg <br>
 
 🎯 Personalização <br>
 
