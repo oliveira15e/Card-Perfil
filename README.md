@@ -34,9 +34,9 @@ Ao interagir com o card: <br>
 • Os ícones sociais surgem com delay progressivo <br>
 
 📁 card-perfil <br>
-├── card.html <br>
-├── card.css <br>
-└── 📁 img <br>
+&nbsp;├── card.html <br>
+&nbsp;├── card.css <br>
+&nbsp;└── 📁 img <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── eu.jpeg <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── thumb-1920-666904.jpg <br>
 
