@@ -18,39 +18,39 @@ Google Fonts
 Flaticon Icons<br>
 </p>
 
-✨ Funcionalidades
+✨ Funcionalidades <br>
 
-✔️ Card com efeito hover animado
-✔️ Imagem com transição suave
-✔️ Ícones sociais com animação sequencial
-✔️ Rotação nos ícones ao passar o mouse
-✔️ Layout centralizado com CSS Grid
-✔️ Uso de variáveis CSS
+✔️ Card com efeito hover animado <br>
+✔️ Imagem com transição suave <br>
+✔️ Ícones sociais com animação sequencial <br>
+✔️ Rotação nos ícones ao passar o mouse <br>
+✔️ Layout centralizado com CSS Grid <br>
+✔️ Uso de variáveis CSS <br>
 
-🎨 Layout e comportamento
+🎨 Layout e comportamento <br>
 
-Ao interagir com o card:
+Ao interagir com o card: <br>
 
-A imagem sobe com efeito translateY
-A opacidade da imagem diminui
-A bio aparece suavemente
-Os ícones sociais surgem com delay progressivo
+A imagem sobe com efeito translateY <br>
+A opacidade da imagem diminui <br>
+A bio aparece suavemente <br>
+Os ícones sociais surgem com delay progressivo <br>
 
-📁 card-perfil
-├── card.html
-├── card.css
-└── 📁 img
-    ├── eu.jpeg
-    └── thumb-1920-666904.jpg
+📁 card-perfil <br>
+├── card.html <br>
+├── card.css <br>
+└── 📁 img <br>
+    ├── eu.jpeg <br>
+    └── thumb-1920-666904.jpg <br>
 
-🎯 Personalização
+🎯 Personalização <br>
 
-Você pode adaptar facilmente:
+Você pode adaptar facilmente: <br> 
 
-📸 Foto de perfil
-📝 Nome e descrição
-🔗 Links sociais
-🎨 Cores via :root no CSS
+📸 Foto de perfil <br>
+📝 Nome e descrição <br>
+🔗 Links sociais <br>
+🎨 Cores via :root no CSS <br>
 🌄 Imagem de fundo
 
 
