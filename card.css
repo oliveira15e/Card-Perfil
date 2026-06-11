@@ -9,7 +9,7 @@
     box-sizing: border-box;
 }
 body{
-    background: url(/img/thumb-1920-666904.jpg);
+    background: #000;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
